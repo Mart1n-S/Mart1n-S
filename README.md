@@ -127,8 +127,4 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mart1n-S&color=grey&style=flat-square&label=views"/>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" alt="footer"/>
